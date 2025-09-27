@@ -1,19 +1,19 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/EasyMoneyTiger/EasyMoneyTiger/main/header.png" alt="Header Banner"/>
+  <img src="https://raw.githubusercontent.com/EasyMoneyTiger/EasyMoneyTiger/main/image.png" alt="Header Banner"/>
 </p>
 
-<h1 align="center">Hi there, I'm [Your Name] 👋</h1>
+<h1 align="center">Hi there, I'm Shenghu Han 👋</h1>
 
 <p align="center">
-  <em>一名对集成电路工程充满热情的未来博士生 (A prospective Ph.D. student passionate about Integrated Circuit Engineering)</em>
+  <em>A prospective Ph.D. student passionate about Integrated Circuit Engineering</em>
 </p>
 
 ---
 
 ### 👨‍💻 More About Me
 
--   🎓 我目前是**东南大学**电子科学与技术专业的本科生，即将继续攻读**集成电路工程**博士学位。
-    
+-   🎓  I am currently an undergraduate student majoring in Electronic Science and Technology at **Southeast University**. In the near future, I will continue my studies at Southeast University to pursue a Ph.D. in Integrated Circuit Engineering.
+  <!--
 -   🔭 我目前正专注于 **[您正在研究的方向，例如：低功耗数字电路设计 / 模拟IC设计 / 毕业设计课题]**
     
 -   🌱 我正在学习 **[您正在学习的新技术，例如：SystemVerilog, UVM, Cadence Virtuoso, 先进半导体工艺等]**
@@ -21,7 +21,7 @@
 -   💬 欢迎与我交流关于 **[您感兴趣的技术领域，例如：微型机器学习(TinyML), 存算一体, EDA工具等]**
     
 -   📫 如何联系我: **[您的邮箱地址, e.g., your.email@example.com]**
-
+    -->
 ---
 
 ### 🛠️ My Skills & Tech Stack
@@ -29,7 +29,6 @@
 <p align="left">
   <strong>Languages:</strong><br>
   <a href="#"><img alt="Verilog" src="https://img.shields.io/badge/Verilog-1C5A9A?style=for-the-badge&logo=verilog&logoColor=white"></a>
-  <a href="#"><img alt="SystemVerilog" src="https://img.shields.io/badge/SystemVerilog-1D4C8A?style=for-the-badge&logo=systemverilog&logoColor=white"></a>
   <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
   <a href="#"><img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"></a>
   <a href="#"><img alt="MATLAB" src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"></a>
@@ -58,7 +57,7 @@
 ### 📫 Connect with Me
 
 <p align="center">
-  <a href="mailto:[您的邮箱地址]">
+  <a href="mailto:Shenghu.han@outlook.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   &nbsp;
