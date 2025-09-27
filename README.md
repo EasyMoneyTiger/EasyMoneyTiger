@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+ I am currently an undergraduate student majoring in Electronic Science and Technology at Southeast University. In the near future, I will continue my studies at Southeast University to pursue a Ph.D. in Integrated Circuit Engineering.
 <!--
 **EasyMoneyTiger/EasyMoneyTiger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
