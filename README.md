@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/EasyMoneyTiger/EasyMoneyTiger/blob/main/image.jpg" alt="Header Banner"/>
+  <img src="https://github.com/EasyMoneyTiger/EasyMoneyTiger/blob/main/img.jpg" alt="Header Banner"/>
 </p>
 
 <h1 align="center">Hi there, I'm Shenghu Han 👋</h1>
@@ -42,7 +42,7 @@
   <a href="#"><img alt="STM32" src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white"></a>
   <a href="#"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"></a>
 </p>
-
+<!--
 ---
 
 ### 📊 My GitHub Stats
@@ -67,3 +67,4 @@
   &nbsp;
   </p>
 
+  -->
