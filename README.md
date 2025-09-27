@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/EasyMoneyTiger/EasyMoneyTiger/blob/main/image.jpg" alt="Header Banner"/>
+  <img src="https://github.com/EasyMoneyTiger/EasyMoneyTiger/blob/main/image.jpg" alt="Header Banner"/>
 </p>
 
 <h1 align="center">Hi there, I'm Shenghu Han 👋</h1>
