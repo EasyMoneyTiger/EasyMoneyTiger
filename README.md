@@ -5,7 +5,7 @@
 <h1 align="center">Hi there, I'm Shenghu Han 👋</h1>
 
 <p align="center">
-  <em>A prospective Ph.D. student passionate about Integrated Circuit Engineering</em>
+  <em>A prospective Ph.D. student majoring in Integrated Circuit Engineering</em>
 </p>
 
 ---
