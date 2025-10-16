@@ -8,9 +8,9 @@
 
 ### 👨‍💻 More About Me
 
--   🎓  I am a senior undergraduate student majoring in Electronic Science and Technology at Southeast University. In the near future, I will continue my studies at Southeast University to pursue a Ph.D. in Integrated Circuit Engineering.
+-   🎓  I am a senior undergraduate student majoring in Electronic Science and Technology at Southeast University. In the 26fall, I will continue my studies at Southeast University to pursue a Ph.D. in Integrated Circuit Engineering.
 
--   🌱  I am currently learning about AI4formal and AI acceleration.
+-   🌱  I am currently learning about formal verification and AI hardware acceleration.
   <!--
 -   🔭 我目前正专注于 **[您正在研究的方向，例如：低功耗数字电路设计 / 模拟IC设计 / 毕业设计课题]**
     
