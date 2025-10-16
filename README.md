@@ -4,15 +4,13 @@
 
 <h1 align="center">Hi there, I'm Shenghu Han 👋</h1>
 
-<p align="center">
-  <em>A prospective Ph.D. student majoring in Integrated Circuit Engineering</em>
-</p>
-
 ---
 
 ### 👨‍💻 More About Me
 
--   🎓  I am currently an undergraduate student majoring in Electronic Science and Technology at **Southeast University**. In the near future, I will continue my studies at Southeast University to pursue a Ph.D. in Integrated Circuit Engineering.
+-   🎓  I am a senior undergraduate student majoring in Electronic Science and Technology at Southeast University. In the near future, I will continue my studies at Southeast University to pursue a Ph.D. in Integrated Circuit Engineering.
+
+-   🌱  I am currently learning about AI4formal and AI acceleration.
   <!--
 -   🔭 我目前正专注于 **[您正在研究的方向，例如：低功耗数字电路设计 / 模拟IC设计 / 毕业设计课题]**
     
@@ -24,6 +22,7 @@
     -->
 ---
 
+<!--
 ### 🛠️ My Skills & Tech Stack
 
 <p align="left">
@@ -42,7 +41,7 @@
   <a href="#"><img alt="STM32" src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white"></a>
   <a href="#"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"></a>
 </p>
-<!--
+
 ---
 
 ### 📊 My GitHub Stats
