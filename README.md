@@ -8,18 +8,10 @@
 
 ### 👨‍💻 More About Me
 
--   🎓  I am a senior undergraduate student majoring in Electronic Science and Technology at Southeast University. In the 26fall, I will continue my studies at Southeast University to pursue a Ph.D. in Integrated Circuit Engineering.
+-   🎓  I am a first-year doctoral student in Integrated Circuit Engineering at Southeast University.
 
--   🌱  I am currently learning about formal verification and AI hardware acceleration.
-  <!--
--   🔭 我目前正专注于 **[您正在研究的方向，例如：低功耗数字电路设计 / 模拟IC设计 / 毕业设计课题]**
-    
--   🌱 我正在学习 **[您正在学习的新技术，例如：SystemVerilog, UVM, Cadence Virtuoso, 先进半导体工艺等]**
-    
--   💬 欢迎与我交流关于 **[您感兴趣的技术领域，例如：微型机器学习(TinyML), 存算一体, EDA工具等]**
-    
--   📫 如何联系我: **[您的邮箱地址, e.g., your.email@example.com]**
-    -->
+-   🌱  My research interests include Electronic Design Automation(EDA) and Machine Learning. I'm studying about various verification algorithm especially in formal methods and AI-driven workflows.
+
 ---
 
 <!--
